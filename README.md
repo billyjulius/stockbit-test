@@ -34,3 +34,10 @@ Make sure `chromedriver` location included in `PATH` environment variable
   - `@select` for question no 1
   - `@search` for question no 2
   - `@detail` for question no 3
+
+### 2. API Automation
+- Automation using framework [TestNG](https://testng.org/doc/) with [Rest Assured](https://rest-assured.io/)
+- Command to run
+  ```
+    mvn clean test -pl api-test
+  ```
